@@ -14,3 +14,6 @@
 ## TODO
 - [x] Add some images and ~~color~~ to Readme to get more practice with Markdown :)
 - [x] Add build and run steps to Readme
+- [ ] Fix message display behind the game
+- [ ] Add play again button
+- [ ] Add color change for button 
